@@ -49,6 +49,7 @@ Create a `.env` file in the project directory and add:
 TODOIST_API_KEY=your_todoist_api_key
 GEMINI_API_KEY=your_gemini_api_key
 
+```
 ## Example usage
 
 You: Add a task: buy milk
